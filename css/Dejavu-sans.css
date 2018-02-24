@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Dejavu-Sans';
+    src: url('font/Dejavu-sans.eot');
+    /* IE9 Compat Modes */
+    src: url('font/Dejavu-sans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('font/Dejavu-sans.woff2') format('woff2'), /* Super Modern Browsers */
+    url('font/Dejavu-sans.woff') format('woff'), /* Pretty Modern Browsers */
+    url('font/Dejavu-sans.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('font/Dejavu-sans.svg#dejavu_sansregular') format('svg');
+    /* Legacy iOS */
+}
